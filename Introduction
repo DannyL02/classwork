@@ -1,0 +1,22 @@
+print("hello, world")
+
+print(4 - 2)
+print(18 + 2)
+print(18 / 2)
+print(18 // 2)
+
+
+item_cost = 4.99
+quantity = 3
+total_cost = item_cost * quantity
+
+
+print("The total cost is:")
+print(total_cost)
+
+
+first_name = 'Danny'
+last_name = "Lee"
+print(first_name, last_name)
+
+print(last_name + ', ' + first_name)
