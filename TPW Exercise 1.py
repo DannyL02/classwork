@@ -1,0 +1,6 @@
+print("Danny Lee")
+print("St. Robert Catholic High School")
+print("8101 Lesile St,")
+print("Thornhill, ON")
+print("L3T 7PA")
+print("905-889-4982")
